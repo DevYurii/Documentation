@@ -1,0 +1,15 @@
+{
+  "Code": "Code.yml",
+  "Code.ExampleProject": "Code.ExampleProject.yml",
+  "Code.ExampleProject.GoodBye(System.String)": "Code.ExampleProject.yml",
+  "Code.HelloWorld": "Code.HelloWorld.yml",
+  "Code.HelloWorld.Ggggggggg": "Code.HelloWorld.yml",
+  "Code.NewDirectory1": "Code.NewDirectory1.yml",
+  "Code.NewDirectory1.IClass": "Code.NewDirectory1.IClass.yml",
+  "Code.NewDirectory1.IClass.Get": "Code.NewDirectory1.IClass.yml",
+  "NewDirectory2": "NewDirectory2.yml",
+  "NewDirectory2.GGEY": "NewDirectory2.GGEY.yml",
+  "NewDirectory2.GGEY.Hello": "NewDirectory2.GGEY.yml",
+  "NewDirectory2.StructExample": "NewDirectory2.StructExample.yml",
+  "NewDirectory2.StructExample.zero": "NewDirectory2.StructExample.yml"
+}

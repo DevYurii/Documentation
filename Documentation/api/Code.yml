@@ -1,0 +1,28 @@
+### YamlMime:ManagedReference
+items:
+- uid: Code
+  commentId: N:Code
+  id: Code
+  children:
+  - Code.ExampleProject
+  - Code.HelloWorld
+  langs:
+  - csharp
+  - vb
+  name: Code
+  nameWithType: Code
+  fullName: Code
+  type: Namespace
+references:
+- uid: Code.ExampleProject
+  commentId: T:Code.ExampleProject
+  href: Code.ExampleProject.html
+  name: ExampleProject
+  nameWithType: ExampleProject
+  fullName: Code.ExampleProject
+- uid: Code.HelloWorld
+  commentId: T:Code.HelloWorld
+  href: Code.HelloWorld.html
+  name: HelloWorld
+  nameWithType: HelloWorld
+  fullName: Code.HelloWorld

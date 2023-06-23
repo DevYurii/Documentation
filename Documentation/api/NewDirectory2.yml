@@ -1,0 +1,28 @@
+### YamlMime:ManagedReference
+items:
+- uid: NewDirectory2
+  commentId: N:NewDirectory2
+  id: NewDirectory2
+  children:
+  - NewDirectory2.GGEY
+  - NewDirectory2.StructExample
+  langs:
+  - csharp
+  - vb
+  name: NewDirectory2
+  nameWithType: NewDirectory2
+  fullName: NewDirectory2
+  type: Namespace
+references:
+- uid: NewDirectory2.GGEY
+  commentId: T:NewDirectory2.GGEY
+  href: NewDirectory2.GGEY.html
+  name: GGEY
+  nameWithType: GGEY
+  fullName: NewDirectory2.GGEY
+- uid: NewDirectory2.StructExample
+  commentId: T:NewDirectory2.StructExample
+  href: NewDirectory2.StructExample.html
+  name: StructExample
+  nameWithType: StructExample
+  fullName: NewDirectory2.StructExample

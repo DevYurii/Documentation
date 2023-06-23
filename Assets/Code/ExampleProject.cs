@@ -1,0 +1,25 @@
+using System;
+
+namespace Code {
+    /// <summary>
+    /// Example
+    /// </summary>
+    public class ExampleProject
+    {
+        /// <summary>
+        /// Hello
+        /// </summary>
+        /// <param name="hello">hello wold my dada</param>
+        internal void Hello(string hello) {
+            Console.WriteLine("Helloi");
+        }
+        
+        /// <summary>
+        /// HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+        /// </summary>
+        /// <param name="hhhh">Hrkjhgkhfjdflshg</param>
+        public void GoodBye(string hhhh) {
+            
+        }
+    }
+}

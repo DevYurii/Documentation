@@ -1,0 +1,21 @@
+### YamlMime:ManagedReference
+items:
+- uid: Code.NewDirectory1
+  commentId: N:Code.NewDirectory1
+  id: Code.NewDirectory1
+  children:
+  - Code.NewDirectory1.IClass
+  langs:
+  - csharp
+  - vb
+  name: Code.NewDirectory1
+  nameWithType: Code.NewDirectory1
+  fullName: Code.NewDirectory1
+  type: Namespace
+references:
+- uid: Code.NewDirectory1.IClass
+  commentId: T:Code.NewDirectory1.IClass
+  href: Code.NewDirectory1.IClass.html
+  name: IClass
+  nameWithType: IClass
+  fullName: Code.NewDirectory1.IClass

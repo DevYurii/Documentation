@@ -1,0 +1,76 @@
+### YamlMime:ManagedReference
+items:
+- uid: Code.NewDirectory1.IClass
+  commentId: T:Code.NewDirectory1.IClass
+  id: IClass
+  parent: Code.NewDirectory1
+  children:
+  - Code.NewDirectory1.IClass.Get
+  langs:
+  - csharp
+  - vb
+  name: IClass
+  nameWithType: IClass
+  fullName: Code.NewDirectory1.IClass
+  type: Interface
+  source:
+    remote:
+      path: C:/Users/DEV-PASHA/Projects/Documentation/Assets/Code/NewDirectory1/IClass.cs
+    id: IClass
+    path: ../Assets/Code/NewDirectory1/IClass.cs
+    startLine: 1
+  namespace: Code.NewDirectory1
+  syntax:
+    content: public interface IClass
+    content.vb: Public Interface IClass
+- uid: Code.NewDirectory1.IClass.Get
+  commentId: M:Code.NewDirectory1.IClass.Get
+  id: Get
+  parent: Code.NewDirectory1.IClass
+  langs:
+  - csharp
+  - vb
+  name: Get()
+  nameWithType: IClass.Get()
+  fullName: Code.NewDirectory1.IClass.Get()
+  type: Method
+  source:
+    remote:
+      path: C:/Users/DEV-PASHA/Projects/Documentation/Assets/Code/NewDirectory1/IClass.cs
+    id: Get
+    path: ../Assets/Code/NewDirectory1/IClass.cs
+    startLine: 2
+  namespace: Code.NewDirectory1
+  syntax:
+    content: void Get()
+    content.vb: Sub [Get]()
+  overload: Code.NewDirectory1.IClass.Get*
+references:
+- uid: Code.NewDirectory1
+  commentId: N:Code.NewDirectory1
+  href: Code.html
+  name: Code.NewDirectory1
+  nameWithType: Code.NewDirectory1
+  fullName: Code.NewDirectory1
+  spec.csharp:
+  - uid: Code
+    name: Code
+    href: Code.html
+  - name: .
+  - uid: Code.NewDirectory1
+    name: NewDirectory1
+    href: Code.NewDirectory1.html
+  spec.vb:
+  - uid: Code
+    name: Code
+    href: Code.html
+  - name: .
+  - uid: Code.NewDirectory1
+    name: NewDirectory1
+    href: Code.NewDirectory1.html
+- uid: Code.NewDirectory1.IClass.Get*
+  commentId: Overload:Code.NewDirectory1.IClass.Get
+  href: Code.NewDirectory1.IClass.html#Code.NewDirectory1.IClass.Get
+  name: Get
+  nameWithType: IClass.Get
+  fullName: Code.NewDirectory1.IClass.Get
