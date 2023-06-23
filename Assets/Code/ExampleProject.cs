@@ -7,7 +7,7 @@ namespace Code {
     public class ExampleProject
     {
         /// <summary>
-        /// Hello
+        /// Hellog
         /// </summary>
         /// <param name="hello">hello wold my dada</param>
         public void Hello(string hello) {
