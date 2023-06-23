@@ -26,19 +26,6 @@ references:
   isSpec: "True"
   fullName: Code.ExampleProject.GoodBye
   nameWithType: ExampleProject.GoodBye
-- uid: Code.ExampleProject.Hello(System.String)
-  name: Hello(String)
-  href: api/Code.ExampleProject.html#Code_ExampleProject_Hello_System_String_
-  commentId: M:Code.ExampleProject.Hello(System.String)
-  fullName: Code.ExampleProject.Hello(System.String)
-  nameWithType: ExampleProject.Hello(String)
-- uid: Code.ExampleProject.Hello*
-  name: Hello
-  href: api/Code.ExampleProject.html#Code_ExampleProject_Hello_
-  commentId: Overload:Code.ExampleProject.Hello
-  isSpec: "True"
-  fullName: Code.ExampleProject.Hello
-  nameWithType: ExampleProject.Hello
 - uid: Code.HelloWorld
   name: HelloWorld
   href: api/Code.HelloWorld.html
