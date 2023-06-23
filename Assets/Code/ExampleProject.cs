@@ -10,7 +10,7 @@ namespace Code {
         /// Hello
         /// </summary>
         /// <param name="hello">hello wold my dada</param>
-        internal void Hello(string hello) {
+        public void Hello(string hello) {
             Console.WriteLine("Helloi");
         }
         
